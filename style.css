@@ -1,0 +1,150 @@
+body {
+    font-family: sans-serif;
+    background-color:palegoldenrod   ; 
+table {
+    border: 1px solid blueviolet;
+    font-size: 20px;
+   
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+
+    border: 1px solid rgb(0, 0, 0);
+}
+
+tr:first-child {
+    
+    background-color: lightblue;
+}
+
+td:first-child {
+    
+    background-color: lightblue;
+}
+
+selector {
+    background-color: darkorange;
+}
+h3{
+display: flex;
+justify-content: center;
+}
+header {
+    padding: 30px ;
+    margin-bottom: 20px;
+    background-color: black;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    margin-top: 15px ;
+    margin-bottom: 15px ;
+}
+
+
+
+
+article {
+    background-color: darkgreen;
+    padding: 12px ;
+    width: 400px;
+    margin:6px  ;
+}
+
+
+
+h2{
+text-align: center;
+}
+article{
+text-align: center;
+} 
+h1{ 
+color: red;
+}
+h2{
+color: rgb(0, 255, 34);
+}
+h3{
+color: rgb(7, 39, 224);
+font-size: x-large;
+}
+p{
+font-size: larger;
+text-align: center;
+}
+h7{
+font-size: larger;
+} 
+
+
+.nav-link {
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+b{
+color: white;
+text-align: center;
+}
+footer p{
+color: white;
+text-align: center;
+}
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+   display: flex; 
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a:hover {
+    box-shadow: 3px 5px 10px gold; 
+}
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex ;
+    justify-content: space-between
+}
+.nav-link {
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+h7{
+font-size: large;
+text-align: center;
+}
+}
+footer {
+    
+    padding: 30px ;
+    background-color: rgb(0, 0, 0)
+}
+
+footer p {
+    font-size: 24px;
+    float: right;
+}
+h4{
+color: white;
+text-align: center;
+font-size: x-large;
+margin-top:10px ;
+}
